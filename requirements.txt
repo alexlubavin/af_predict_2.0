@@ -1,4 +1,4 @@
 tensorflow==2.12.1
 numpy
-streamlit
+streamlit==1.25.0
 keras
