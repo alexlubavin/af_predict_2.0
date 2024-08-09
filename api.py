@@ -2,8 +2,8 @@ import streamlit as st
 from streamlit.logger import get_logger
 from tensorflow import keras
 import numpy as np
-
-model_loaded = keras.models.load_model('af_predictor_model_4')
+from keras.models import load_model
+model_loaded = load_model('af_predictor_model_4.h5')
 
 def prediction(ao, la, lv, rv, ra, pa, lvaw, lvpw, ef, ar, mr, tr, cv):
     
