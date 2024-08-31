@@ -136,7 +136,7 @@ def run():
     
     st.write('График логистической регрессии зависимости развития ФП от значения выхода нейросети')
 
-    st.image('kmf.png', caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto") 
+    st.image('kmf1.png', caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto") 
     
     st.write('Кривые Каплана-Мейера развития ФП в зависимости от значения выхода нейросети')
     
