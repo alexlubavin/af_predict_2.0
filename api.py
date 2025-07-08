@@ -141,7 +141,7 @@ def run():
     st.write('Кривые Каплана-Мейера развития ФП в зависимости от значения выхода нейросети')
     
     st.link_button('Котляров С.Н., Любавин А.В. Прогнозирование фибрилляции предсердий по основным показателям трансторакальной эхокардиографии при помощи нейронной сети. Креативная кардиология. 2023; 17 (4): 481–90. DOI: 10.24022/1997-3187-2023-17-4-481-490', 
-               'https://alexlubavin48@gmail.com', 
+               'https://cardiology-journal.com/catalog/detail.php?SECTION_ID=25942&ID=1142825', 
                help=None, type="secondary", disabled=False, use_container_width=False)
     
     
